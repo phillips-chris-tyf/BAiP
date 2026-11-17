@@ -5,3 +5,7 @@ Teaching resources, practical activities and portfolio examples for Business Ana
 ## About this repository
 
 This repository supports the Business Analytics in Practice module and will develop alongside the course.
+
+## Examples
+
+[View worked examples](examples/)
